@@ -1,4 +1,4 @@
-# Boilerplate Puppeteer
+# Biology Bot
 
 
 ### Contatos e redes sociais:
@@ -17,16 +17,16 @@
 <br>
 
 ## Descrição:
-O Boilerplate Puppeteer é um facilitador na hora de criar projetos em Puppeteer, tendo um corpo já pronto, não é necessário tanto trabalho para começar a digitar seus códigos.
+O Biology Bot em Puppeteer é um buscador de informações sobre biologia, com ele podemos facilitar o processo de pesquisa para um ambiente que sempre irá nos direcionar ao que queremos pesquisar de forma direta.
 
 ## Como instalar:
-Para utilizar esse boilerplate, você precisará copia-lo em sua máquina e instalar todas as dev dependências presentes no package.json, basta digitar em seu terminal:
+Para utilizar esse projeto, você precisará copia-lo em sua máquina e instalar todas as dev dependências presentes no package.json, basta digitar em seu terminal:
 
 ```
 npm install
 ```
 
-Que todas as dependências serão automaticamente instaladas e você já pode começar a codar.
+Que todas as dependências serão automaticamente instaladas e você já pode começar a usar.
 
 ## Como usar:
 
@@ -35,5 +35,3 @@ Após você preparar todo seu código no arquivo index.js, será necessário rod
 ``` 
 node index.js
 ```
-
-Dentro do próprio arquivo index.js tem algumas informações de uso em forma de comentários, caso não precise delas, basta excluir os comentários que tudo estará pronto.
